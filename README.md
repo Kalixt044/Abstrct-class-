@@ -1,0 +1,2 @@
+# Abstrct-class-
+Example
